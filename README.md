@@ -60,7 +60,6 @@ Shows the accuracy of each model and their ability to classify the different dru
 
 Installing
 Clone the repository to local machine:
-git clone https://github.com/yourusername/DATA1200-Drug-Classification.git
 
 Navigate to the project directory:
 DATA1200-Drug-Classification
