@@ -114,9 +114,6 @@ Authors
 [Harmeet Kaur]
 Data Analytics Student, Durham College
 
-License
-This project is licensed under the MIT License.
-
 Acknowledgments
 Special thanks to:
 
