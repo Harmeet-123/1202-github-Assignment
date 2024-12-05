@@ -1,9 +1,9 @@
 # Drug Classification using Machine Learning and Neural Networks
 
 ## Project Description
-This project applies machine learning models, such as the Artificial Neural Network (ANN) and the Decision Tree classifier, for drug classification based on patient characteristics. The dataset, drugdataset.csv, includes features such as age, sex, blood pressure, cholesterol levels, and sodium-to-potassium ratio, and the target variable is the prescribed drug (Drug).
+This project is aimed at the application of the Artificial Neural Network (ANN) and Decision Tree classifier in drug classification according to patient characteristics. The data set, drugdataset.csv consists of age, sex, blood pressure, cholesterol, sodium-potassium ratio, and the target variable is drug prescribed (Drug).
 
-The aim of this work is to emphasize the working of neural network and decision tree in case of multi-class classification while showing their various metrics comprising accuracy, precision, recall, and F1-score by using the results.
+Describes working of neural network and decision tree for different cases in multi-class classification along with their different metrics such as accuracy, precision, recall, and F-measure with the use of results.
 
 ## Getting Started
 The following instructions will help to set up and execute the project on local machine.
